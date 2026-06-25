@@ -1,0 +1,152 @@
+{
+  "Python": [
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa_day1.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa_day1_big_o.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/big_o.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week1/Dict_revision.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/big_o.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/oop_revision.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/inheritance.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week1/python.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/import numpy as np.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/python3 pandas_basics.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/matplotlib_basics.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/python3.matplotlib.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/dynamic.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/array_o.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/import pandas as pd.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/python.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/# Built-in modules \u2014 no install needed.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/pandas as pd.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/class Animal:.py.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/matplotlib.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/pandas_basics.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/matplotlib_basics.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/numpy_basics.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/recursion_revision.py"
+  ],
+  "DSA": {
+    "Two Pointers": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/two_sum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/leetcode/Twosum using hashmap.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/leetcode/Twosum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/two_pointers_revision.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/reverse_array.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Twosum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/two_sum_II_revision.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Two_Sum_II.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/three_sum_revision.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/three_sum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/container_water.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/3Sum.py"
+    ],
+    "Hashmap": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/leetcode/contains_Duplicate.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap 1.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Frequency.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/hashmap_frequency.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap update delete.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Group_anagram.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap_1.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap_update_delete.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/hashmap_group_anagrams.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/contains_Duplicate.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap_student_marks.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Hashmap.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/existence.py"
+    ],
+    "Monotonic Stack": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/next_greater_element.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/daily_temperatures.py"
+    ],
+    "Stack": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/parentheses.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/MinStack.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/stack.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/stack_memory.py"
+    ],
+    "Backtracking": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/combinationsum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/permutations.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/subsets.py"
+    ],
+    "Dynamic Programming": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/merge_two_lists.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/partition_equal_subset.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/palindrome.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/coin_change_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/house_robber_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/LIS.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/climbing_stairs_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/validparanthesis.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/House_Rob.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/coinChanges.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Climbing.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/fibonacci_revision.py"
+    ],
+    "Heap": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/heap_functions.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/heap_min.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/kth_largest.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/meeting_rooms_ii.py"
+    ],
+    "Binary Search": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Binary_search.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/binary_search_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/search_2d_matrix.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Bs.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/mid.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/search_rotated.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/mid_33.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/find_min_rotated.py"
+    ],
+    "Sliding Window": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/slide.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/sliding_window_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/sliding_window_maximum.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/sliding_window_revision.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/variable_window.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/sliding.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/variable_window_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/longest_substring.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/consecutive.py"
+    ],
+    "Greedy": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/non_overlapping_intervals.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/insert_interval.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/jump_game.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/jump_game_II.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/merge_intervals.py"
+    ],
+    "Linked List": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/linked_list_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/linked_list_cycle.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/linkedlist.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Linked_list.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/reverse_linked_list.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/week2/linked_list_revision.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/remove_nth_from_end.py"
+    ],
+    "Trees BFS/DFS": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/dfs_memory.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Level_Order_Traversal.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/TreeNode.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/BFS.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Bfs_Dfs.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/LCA.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/maxDepth.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/lowest_common_ancestor.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/lowestCommonAncestor.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/diameter.py"
+    ],
+    "Graphs": [
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/number_of_islands.py",
+      "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/graph_memory.py"
+    ]
+  },
+  "LeetCode": [
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Product_except_self.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/top_k_frequent.py",
+    "/Users/manojkumarilango/CodeMentor-AI/data/Coding-solving-/dsa/Stock.py"
+  ]
+}
