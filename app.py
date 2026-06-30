@@ -94,6 +94,12 @@ if page == "Learn":
                 )
                 example_code = code_answer
 
+        example_code = example_code.strip()
+        if example_code.startswith("```"):
+            lines = example_code.split("\n")
+            lines = [l for l in lines if not l.strip().startswith("```")]
+            example_code = "\n".join(lines).strip()
+
         st.code(example_code, language="python")
 
         with st.expander("Debug: Raw example code"):
