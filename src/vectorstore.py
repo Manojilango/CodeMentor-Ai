@@ -1,7 +1,7 @@
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from document_loader import load_python_files, chunk_documents
+from .document_loader import load_python_files, chunk_documents
 
 VECTORSTORE_PATH = os.path.expanduser("~/CodeMentor-AI/data/faiss_index")
 

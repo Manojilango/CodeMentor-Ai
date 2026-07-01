@@ -1,6 +1,6 @@
 import os
 from groq import Groq
-from vectorstore import load_vectorstore
+from .vectorstore import load_vectorstore
 from dotenv import load_dotenv
 
 load_dotenv()
