@@ -32,7 +32,7 @@ class Solution:
         return False
 
 sol = Solution()
-board = [
+board = [ñ
   ['A','B','C','E'],
   ['S','F','C','S'],
   ['A','D','E','E']
